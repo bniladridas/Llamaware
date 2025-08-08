@@ -1,5 +1,6 @@
 #include "services/command_service.h"
 #include <cstdio>
+#include <cstring>
 #include <array>
 #include <regex>
 #include <stdexcept>
